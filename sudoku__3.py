@@ -24,6 +24,7 @@ def solve_sudoku(board):
                 return False
     return True
 
+
 def print_board(board):
     horizontal_line = "+-------+-------+-------+"
 
